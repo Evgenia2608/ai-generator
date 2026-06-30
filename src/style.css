@@ -1,3 +1,9 @@
 body {
   background: lightskyblue;
+  text-align: center;
+  color: darkblue;
+}
+
+a {
+  color:lightcyan;
 }
