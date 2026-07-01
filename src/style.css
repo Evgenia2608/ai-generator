@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  margin: 120px auto;
+  margin: 60px auto;
   max-width: 700px;
 }
 
@@ -30,7 +30,6 @@ h1 {
 
 form {
   display: flex;
-  
 }
 
 .hint {
@@ -71,14 +70,14 @@ form {
   font-size: 16px;
   text-align: center;
   background-color: lightcyan;
-  padding: 15px;
+  padding: 5px;
   border-radius: 16px;
   line-height: 2;
-  border-left: 2px solid darkblue;
+  border: 2px solid darkblue;
   box-shadow: 0px 4px 30px 0px rgba(39, 33, 66, 0.03);
 }
 
-.hidden{
+.hidden {
   display: none;
 }
 
